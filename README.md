@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey there 👋, I'm Adine Vikash.
 
-<!--
-**adinetech/adinetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I'm interested in front-end, blockchain development and networking.
 
-Here are some ideas to get you started:
+🌱 I'm a Community Moderator at Mysterium Network.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+
+Discord: Adine#5145  
+Telegram: adinevikash  
+Twitter: adinetech  
+Instagram (rarely used): adinetech1  
+WhatsApp (GreenTree's team number): +91 4651213872  
+
+Feel free to drop me a message anytime!
