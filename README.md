@@ -2,7 +2,7 @@
 
 👀 I'm interested in front-end, blockchain development and networking.
 
-🌱 I'm a Community Support and Moderator at Mysterium Network.
+🌱 I'm a Community Manager at Mysterium Network.
 
 ## 📫 How to reach me:
 
