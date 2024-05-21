@@ -2,8 +2,6 @@
 
 👀 I'm interested in front-end, blockchain development and networking.
 
-🌱 I'm a Community Manager at Mysterium Network.
-
 ## 📫 How to reach me:
 
 Discord: Adine#5145  
