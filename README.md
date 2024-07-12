@@ -7,6 +7,6 @@
 Discord: Adine#5145  
 Telegram: adinevikash  
 Twitter: adinetech  
-Instagram (rarely used): adinetech1  
+Instagram: adinevikash
 
 Feel free to drop me a message anytime!
