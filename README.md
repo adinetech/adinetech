@@ -2,7 +2,7 @@
 
 I'm **Adine Vikash**, a tech enthusiast and **Support Specialist / Community Manager at Mysterium Network**. My role involves supporting and moderating the community to ensure it remains vibrant and thriving, while also providing user support through community channels and tools like Intercom.
 
-In addition to my community work, I have a strong passion for **blockchain technology**, **networking**, and **development**.
+In addition to my work, I have a strong passion for **blockchain technology**, **networking**, and **development**.
 
 As the **Co-Founder of Greentreeteam**, I focus on creative open-source projects aimed at fostering innovation and sustainability.
 
