@@ -10,7 +10,7 @@ As the **Co-Founder of Greentreeteam**, I focus on creative open-source projects
 
 ## 🛠 Experience and Skills
 
-- **Community & Support Specialist at Mysterium Network at Mysterium Network**: Supporting users, moderating discussions, driving community engagement, and providing technical support.
+- **Community & Support Specialist at Mysterium Network**: Supporting users, moderating discussions, driving community engagement, and providing technical support.
 - **Co-Founder of Greentreeteam**: Working on creative open-source projects to foster innovation and sustainability.
 - **Tech Enthusiast**: Passionate about exploring **blockchain**, **development**, and **network infrastructure**.
 - **Cloud Services Experience**: Hands-on experience managing locally hosted infrastructure and working with cloud services.
