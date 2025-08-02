@@ -1,39 +1,45 @@
-# Hey there! 👋
+# Hey, I’m Adine Vikash 👋
 
-I'm **Adine Vikash**, a tech enthusiast and Community & Support Specialist at Mysterium Network. My role involves supporting and moderating the community to ensure it remains vibrant and thriving, while also providing user support through community channels and tools like Intercom.
-
-In addition to my work, I have a strong passion for **blockchain technology**, **networking**, and **development**.
-
-As the **Co-Founder of Greentreeteam**, I focus on creative open-source projects aimed at fostering innovation and sustainability.
+**Community Lead @ [Mysterium Network](https://mysterium.network)**  
+Decentralized infrastructure | Web3 Strategy | Ecosystem Growth
 
 ---
 
-## 🛠 Experience and Skills
+I’m a tech generalist with a deep interest in decentralization, open-source systems, and community-led innovation. At Mysterium Network, I lead global community growth and ecosystem engagement for a decentralized network that handles 2.8+ petabytes of monthly traffic and supports over 65,000 node providers worldwide.
 
-- **Community & Support Specialist at Mysterium Network**: Supporting users, moderating discussions, driving community engagement, and providing technical support.
-- **Co-Founder of Greentreeteam**: Working on creative open-source projects to foster innovation and sustainability.
-- **Tech Enthusiast**: Passionate about exploring **blockchain**, **development**, and **network infrastructure**.
-- **Cloud Services**: Hands-on experience managing locally hosted infrastructure and working with cloud services.
+I joined Mysterium in 2021 as a Community Manager, building structured support workflows and responding to thousands of real user queries across Discord, Telegram, and Intercom. In 2025, I stepped into a leadership role, driving our global community strategy, product feedback loops, and ecosystem outreach.
 
----
-
-## 🌱 What I'm Working On
-
-Currently, I'm focused on:
-
-- Diving deeper into **blockchain technology** and its real-world applications.
-- Expanding my **JavaScript skills** and backend capabilities.
-- Developing **community management strategies** to help grow decentralized tech communities.
+Previously, I co-founded **Greentreeteam**, a small open-source collective focused on projects around accessibility, education, and automation.
 
 ---
 
-## 📫 How to Reach Me
+## 🧠 Areas of Focus
 
-- **Website**: [adinetech.com](https://adinetech.com)
-- **Email**: hello@adinetech.com
-- **Discord**: Adine#5145
-- **Telegram**: [@adinevikash](https://t.me/adinevikash)
-- **Twitter**: [@adinetech](https://twitter.com/adinetech)
-- **Instagram**: [@adinevikash](https://www.instagram.com/adinevikash/)
+- Web3 ecosystem strategy and community architecture  
+- Support ops at scale (Discord, Telegram, Intercom)  
+- Community <> Product feedback pipelines  
+- DePIN, dVPN, and decentralized infrastructure  
+- Self-hosting & backend basics (Node, Docker etc)  
 
-Thanks for checking out my GitHub profile! 👾
+---
+
+## 🌱 Currently Exploring
+
+- Growth mechanics for tokenized ecosystems  
+- Community-led onboarding and education models  
+- Cloud infra + backend tools for support automation  
+- Building public goods in privacy-first tech  
+
+---
+
+## 📫 Reach Out
+
+- 🌐 Website: [adinetech.com](https://adinetech.com)  
+- 📨 Email: hello@adinetech.com  
+- 💬 Discord: `adinetech.eth`  
+- 🔹 Telegram: [@adinevikash](https://t.me/adinevikash)  
+- 🐦 Twitter: [@adinetech](https://twitter.com/adinetech)  
+- 💼 LinkedIn: [linkedin.com/in/adinevikash](https://linkedin.com/in/adinevikash)
+
+Thanks for stopping by. I’m always open to collaborations around Web3, DePIN, open-source community building, and self-hosting.  
+Let’s build better networks 🌍
