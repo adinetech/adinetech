@@ -1,34 +1,21 @@
-# Hey, I’m Adine Vikash 👋
+# Hey, I'm Adine 👋
 
-**Community Lead @ [Mysterium Network](https://mysterium.network)**  
-Decentralized infrastructure | Web3 Strategy | Ecosystem Growth
+Builder, community nerd, and someone who genuinely enjoys figuring out how things work under the hood.
 
-I’m a tech generalist with a deep interest in decentralization, open-source systems, and community-led innovation. At Mysterium Network, I lead global community growth and ecosystem engagement for a decentralized network that handles 2.8+ petabytes of monthly traffic and supports over 65,000 node providers worldwide.
+I've spent a fair bit of time growing and structuring communities in the web3/DePIN space — from hands-on support and onboarding to shaping how ecosystems actually engage with their users. Also co-founded [Greentreeteam](https://github.com/greentreeteam), a small open-source collective building around education, accessibility, and automation.
 
-Previously, I co-founded **Greentreeteam**, a small open-source collective focused on projects around accessibility, education, and automation.
+When I'm not doing that, I'm probably self-hosting something, poking at backend tools, or going down a rabbit hole I didn't plan on.
 
-## 🧠 Areas of Focus
+---
 
-- Web3 ecosystem strategy and community architecture  
-- Support ops at scale (Discord, Telegram, Intercom)  
-- DePIN, dVPN, and decentralized infrastructure  
-- Self-hosting & backend basics (Node, Docker etc)  
+Currently:
+- Tinkering with cloud infra and support automation
+- Interested in privacy-first tech and why it matters
+- Building in the open whenever I can
 
-## 🌱 Currently Exploring
+---
 
-- Growth mechanics for tokenized ecosystems  
-- Community-led onboarding and education models  
-- Cloud infra + backend tools for support automation  
-- Building public goods in privacy-first tech  
-
-## 📫 Reach Out
-
-- 🌐 Website: [adinetech.com](https://adinetech.com)  
-- 📨 Email: hello@adinetech.com  
-- 💬 Discord: `adinetech.eth`  
-- 🔹 Telegram: [@adinevikash](https://t.me/adinevikash)  
-- 🐦 Twitter: [@adinetech](https://twitter.com/adinetech)  
-- 💼 LinkedIn: [linkedin.com/in/adinevikash](https://linkedin.com/in/adinevikash)
-
-Thanks for stopping by. I’m always open to collaborations around Web3, DePIN, open-source community building, and self-hosting.  
-Let’s build better networks 🌍
+Reach me:
+- 🌐 [adinetech.com](https://adinetech.com)
+- 📨 hello@adinetech.com
+- 🐦 [Twitter](https://twitter.com/adinetech) · 📸 [Instagram](https://instagram.com/adinetech) · 💼 [LinkedIn](https://linkedin.com/in/adinevikash) · 💬 Discord: `adinetech.eth`
