@@ -1,21 +1,16 @@
 # Hey, I'm Adine 👋
 
-Builder, community nerd, and someone who genuinely enjoys figuring out how things work under the hood.
+I enjoy solving technical problems and helping people get complex systems working. Over the last 5 years at Mysterium Network, I've worked across Linux, networking, Docker, VPNs, and decentralized infrastructure, troubleshooting thousands of user issues while acting as the bridge between engineering and customers.
 
-I've spent a fair bit of time growing and structuring communities in the web3/DePIN space — from hands-on support and onboarding to shaping how ecosystems actually engage with their users. Also co-founded [Greentreeteam](https://github.com/greentreeteam), a small open-source collective building around education, accessibility, and automation.
+My secret? I understand the absolute frustration of a failing network configuration or a broken Docker deployment. That shared pain allows me to troubleshoot complex user issues with genuine empathy and precision.
 
-When I'm not doing that, I'm probably self-hosting something, poking at backend tools, or going down a rabbit hole I didn't plan on.
-
----
-
-Currently:
-- Tinkering with cloud infra and support automation
-- Interested in privacy-first tech and why it matters
-- Building in the open whenever I can
+When I'm not doing that, I'm probably:
+🛠️ Self-hosting something
+💻 Writing backend code to build custom monitoring dashboards
+🔌 Going down a hardware networking rabbit hole I didn't plan on
 
 ---
 
-Reach me:
-- 🌐 [adinetech.com](https://adinetech.com)
-- 📨 hello@adinetech.com
-- 🐦 [Twitter](https://twitter.com/adinetech) · 📸 [Instagram](https://instagram.com/adinetech) · 💼 [LinkedIn](https://linkedin.com/in/adinevikash) · 💬 Discord: `adinetech.eth`
+### Currently:
+- **Tinkering with:** Telemetry and live hardware data extraction (Check out my Prometheus/Grafana projects!)
+- **Looking for:** Full-time roles in Technical Support Engineering, Technical Account Management, or Customer Success.
