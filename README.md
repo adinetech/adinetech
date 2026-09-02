@@ -2,7 +2,7 @@
 
 I build, break, and fix infrastructure. 
 
-For the last 5 years at [Mysterium Network](https://mysterium.network), I've lived at the chaotic intersection of bare-metal operations and human community—acting as the core bridge between engineering and a 75,000+ node ecosystem. 
+For the last 5 years at [Mysterium Network](https://mysterium.network), I've lived at the chaotic intersection of technical operations and community. I acted as the core bridge between engineering and a 75,000+ node ecosystem. 
 
 I understand the absolute frustration of a failing network configuration or a dead server. That shared pain is my secret weapon; it allows me to troubleshoot complex systems with genuine empathy and precision.
 
