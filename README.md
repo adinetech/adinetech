@@ -16,7 +16,7 @@ I understand the absolute frustration of a failing network configuration or a de
 ### 📡 What I'm up to right now
 - 🛠️ Building out an off-grid, solar-powered **Proxmox homelab**.
 - 📊 Writing custom **Go/Python exporters** to extract live hardware telemetry.
-- 🎯 Looking for internships and roles in **Data Center Operations, Infrastructure, and Tech Support**.
+- 🎯 Looking for roles in **Infrastructure and Tech Support**.
 
 ---
 
